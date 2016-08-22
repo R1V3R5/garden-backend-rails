@@ -1,0 +1,49 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  category: MyString
+  common_problems: MyText
+  family: MyString
+  fertilizers: MyText
+  hardy: MyString
+  harvesting_how: MyText
+  harvesting_when: MyText
+  maintenance: MyText
+  maturity: 1
+  production: 1
+  season: MyString
+  secrets: MyText
+  seed_count: 1
+  seed_indoors: MyText
+  seed_outdoors: MyText
+  seed_to_harvest: 1
+  sun: 1
+  size: 1
+  water: 1
+  transplanting: MyText
+  starting_location: MyString
+
+two:
+  name: MyString
+  category: MyString
+  common_problems: MyText
+  family: MyString
+  fertilizers: MyText
+  hardy: MyString
+  harvesting_how: MyText
+  harvesting_when: MyText
+  maintenance: MyText
+  maturity: 1
+  production: 1
+  season: MyString
+  secrets: MyText
+  seed_count: 1
+  seed_indoors: MyText
+  seed_outdoors: MyText
+  seed_to_harvest: 1
+  sun: 1
+  size: 1
+  water: 1
+  transplanting: MyText
+  starting_location: MyString
